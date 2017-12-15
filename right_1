@@ -1,0 +1,3 @@
+#! /bin/sh
+python /home/pi/PCA9685_pantilt.py p -50
+
